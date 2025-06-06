@@ -67,7 +67,7 @@ Contributions are welcome! Follow these steps:
 
 ### 📬 Contact
 For questions or suggestions, reach out to:
-- **Your Name** - [your.email@example.com](mailto:gowtham14075@gmail.com)
+- **Your Name** - [gowtham14075@gmail.com](mailto:gowtham14075@gmail.com)
 - **GitHub:** [Gowtz439](https://github.com/Gowtz439)
 
 ---
