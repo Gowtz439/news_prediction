@@ -1,0 +1,23 @@
+# Core Data Science
+numpy
+scipy
+scikit-learn
+pandas
+joblib
+
+# Text Processing
+nltk
+regex
+
+# Model Explainability
+lime
+matplotlib
+
+# Web Framework (for deployment)
+flask
+flask-cors
+python-dotenv
+
+# Development Tools
+jupyter
+ipykernel
